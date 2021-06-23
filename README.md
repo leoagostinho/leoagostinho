@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leoagostinho;
 - 👀 I’m interested in ... learning;
-- 🌱 I’m currently learning ... Java, HTML, CSS, Javascript;
+- 🌱 I’m currently learning ... Java, C, HTML, CSS, Javascript;
 - 💞️ I’m looking to collaborate on ... anything!!;
 - 📫 How to reach me ... leo.agostinho1602@gmail.com
 
